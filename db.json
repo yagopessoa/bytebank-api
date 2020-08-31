@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "value": 200,
+      "contact": {
+        "name": "Yago",
+        "accountNumber": 1000
+      },
+      "dateTime": "2020-08-30 12:57:23"
+    },
+    {
+      "id": 2,
+      "value": 200,
+      "contact": {
+        "name": "Yago",
+        "accountNumber": 1500
+      },
+      "dateTime": "2020-08-30 12:57:37"
+    }
+  ]
+}
